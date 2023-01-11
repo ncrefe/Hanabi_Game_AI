@@ -1,7 +1,7 @@
 import random
 
 
-# 270201029 Muhammed Efe İncir
+# Muhammed Efe İncir
 
 # The most important place of the bot in the game is to offer us the best possibilities.Firstly, tip given to us,
 # it tells us the number or color that is most frequently in our deck.I did not consider the job here as "just" giving a
