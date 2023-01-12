@@ -1,4 +1,4 @@
-# Hanabi_Game_AI
+# Hanabi Game
 
 The Hanabi deck contains cards in five suits (white, yellow, green, blue, and red): three 1's, two each of 2's, 3's, and 4's, and one 5. The game begins with 8 available information tokens and 3 fuse tokens. To start the game, players are dealt a hand containing five cards (four for 4 or 5 players). As in Blind Man's Bluff, players can see each other's cards but they cannot see their own. Play proceeds around the table; each turn, a player must take one of the following actions:
 
